@@ -4,6 +4,10 @@ package testgit;
  * @version 创建时间：2013年10月1日 下午10:48:28 
  * 
  */
-public class TEST {
+public class TEST {   
+	
+	public static void main(String[] args) {
+		
+	}
 
 }
