@@ -1,9 +1,7 @@
-/bin
-/.settings
-=======
-/.project
-/.classpath
-/.classpath
-/.gitignore
-/.settings
-/target
+.settings
+.project
+.classpath
+.classpath
+.gitignore
+.settings
+target
